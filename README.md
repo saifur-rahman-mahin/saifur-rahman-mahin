@@ -1,8 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Saifur Rahman Mahin</h1>
 
 
 
----
 
 🚀 **Full Stack Developer Profile**
 
