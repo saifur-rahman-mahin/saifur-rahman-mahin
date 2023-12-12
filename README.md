@@ -48,8 +48,8 @@ Feel free to reach out if you're looking for a developer who can seamlessly navi
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saifur-rahman-mahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saifur-rahman-mahin" height="30" width="40" /></a>
-<a href="https://fb.com/hm.saifur.rahman.35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hm.saifur.rahman.35" height="30" width="40" /></a>
-<a href="https://hashnode.com/@mahin39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mahin39" height="30" width="40" /></a>
+<a href="https://fb.com/hm.saifur.rahman.mahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hm.saifur.rahman.35" height="30" width="40" /></a>
+<a href="https://[hashnode.com/@mahin39](https://saifur-rahman-mahin.hashnode.dev/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mahin39" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
