@@ -5,7 +5,7 @@
 
  ## 🚀 Full Stack Developer Profile
 
-Greetings! I am an experienced Full Stack Developer with a comprehensive skill set covering both front-end and back-end aspects of web development. My proficiency lies in creating resilient and user-friendly applications by seamlessly combining the capabilities of React and Next.js for the front end, and Node.js and Laravel for the back end.
+Greetings! I am an versatile Full Stack Developer with a comprehensive skill set covering both front-end and back-end aspects of web development. My proficiency lies in creating resilient and user-friendly applications by seamlessly combining the capabilities of React and Next.js for the front end, and Node.js and Laravel for the back end.
 
 
 ### Front-End Technologies: 🌟
